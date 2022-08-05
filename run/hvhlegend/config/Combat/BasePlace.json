@@ -1,0 +1,13 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "None",
+  "EnemyRange": 5,
+  "PlaceReach": 5,
+  "BlockRange": 4,
+  "Rotate": false,
+  "Packet": false,
+  "Safety": false,
+  "StopHealth": 4
+}

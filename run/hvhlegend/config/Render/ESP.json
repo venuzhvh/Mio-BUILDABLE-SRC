@@ -1,0 +1,18 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "None",
+  "Settings": "GLOBAL",
+  "Items": true,
+  "XpOrbs": false,
+  "XpBottles": false,
+  "Pearls": true,
+  "Players": false,
+  "Burrow": false,
+  "Red": 255,
+  "Green": 255,
+  "Blue": 255,
+  "BoxAlpha": 70,
+  "OlAlpha": 100
+}

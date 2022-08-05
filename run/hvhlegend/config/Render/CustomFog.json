@@ -1,0 +1,22 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "None",
+  "Time": 12000,
+  "Color": false,
+  "Red": 255,
+  "Green": 255,
+  "Blue": 255,
+  "Rainbow": false,
+  "NetherRed": 255,
+  "NetherGreen": 255,
+  "NetherBlue": 255,
+  "NetherRainbow": false,
+  "EndRed": 255,
+  "EndGreen": 255,
+  "EndBlue": 255,
+  "EndRainbow": false,
+  "RSaturation": 0.1,
+  "RBrightness": 0.1
+}

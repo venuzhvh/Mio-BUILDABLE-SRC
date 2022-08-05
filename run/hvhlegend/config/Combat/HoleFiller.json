@@ -1,0 +1,17 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "None",
+  "Settings": "Global",
+  "Range": 4,
+  "Smart": false,
+  "Smart Range": 4,
+  "Render": true,
+  "RenderMode": "Both",
+  "LineWidth": 1,
+  "Red": 150,
+  "Green": 75,
+  "Blue": 150,
+  "Alpha": 80
+}

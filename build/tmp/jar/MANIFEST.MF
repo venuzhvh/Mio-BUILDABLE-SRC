@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+MixinConfigs: mixins.mio.json
+tweakClass: org.spongepowered.asm.launch.MixinTweaker
+TweakOrder: 0
+FMLCorePluginContainsFMLMod: true
+FMLCorePlugin: il.dev.mio.api.mixin.MixinLoader
+ForceLoadAsMod: true
+FMLAT: mio_at.cfg
+

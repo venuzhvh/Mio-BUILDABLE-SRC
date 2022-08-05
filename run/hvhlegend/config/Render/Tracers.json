@@ -1,0 +1,14 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "None",
+  "Range": 100,
+  "Invisibles": false,
+  "Red": 255,
+  "Green": 255,
+  "Blue": 255,
+  "Radius": 80,
+  "Size": 7,
+  "Outline": true
+}

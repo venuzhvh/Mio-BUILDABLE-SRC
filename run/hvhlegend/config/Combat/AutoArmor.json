@@ -1,0 +1,22 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "None",
+  "AutoMend": false,
+  "EnemyRange": 8,
+  "Helmet%": 80,
+  "Chest%": 80,
+  "Legs%": 80,
+  "Boots%": 80,
+  "Save": false,
+  "Save%": 5,
+  "Delay": 50,
+  "Actions": 3,
+  "CurseOfBinding": false,
+  "TpsSync": true,
+  "Update": true,
+  "ShiftClick": false,
+  "Elytra": "None",
+  "NoHelmet": "None"
+}

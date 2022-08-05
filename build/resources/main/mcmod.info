@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "hvhlegend.il",
+    "name": "mio",
+    "description": "Default prefix is ; . Do ;help for commands :^)",
+
+    "version": "2",
+    "mcversion": "1.12.2",
+    "logoFile": "IconMio.png",
+    "url": "none",
+    "updateUrl": "",
+    "authorList": [
+      "Author: asphyxia#8173"
+    ],
+    "screenshots": [],
+    "dependencies": []
+  }
+]

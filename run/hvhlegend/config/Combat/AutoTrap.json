@@ -1,0 +1,20 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "None",
+  "Settings": "GLOBAL",
+  "TickDelay": 50,
+  "BPT": 2,
+  "Rotate": true,
+  "Raytrace": false,
+  "Extra": false,
+  "AntiStep": false,
+  "Packet": false,
+  "Render": true,
+  "RenderMode": "Both",
+  "Red": 150,
+  "Green": 75,
+  "Blue": 150,
+  "Alpha": 80
+}

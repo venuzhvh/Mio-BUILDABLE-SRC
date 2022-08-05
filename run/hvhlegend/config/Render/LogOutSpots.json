@@ -1,0 +1,15 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "None",
+  "Rectangle": true,
+  "Red": 255,
+  "Green": 255,
+  "Blue": 255,
+  "Alpha": 255,
+  "Rainbow": false,
+  "Saturation": 0.1,
+  "Brightness": 0.1,
+  "Range": 150
+}

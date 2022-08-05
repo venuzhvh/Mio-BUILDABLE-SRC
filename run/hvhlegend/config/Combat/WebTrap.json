@@ -1,0 +1,22 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "None",
+  "Settings": "GLOBAL",
+  "TickDelay": 50,
+  "BPT": 1,
+  "Packet": false,
+  "AutoDisable": false,
+  "Rotate": true,
+  "Raytrace": false,
+  "Feet": true,
+  "Face": false,
+  "Render": true,
+  "RenderMode": "Both",
+  "LineWidth": 1,
+  "Red": 150,
+  "Green": 75,
+  "Blue": 150,
+  "Alpha": 80
+}

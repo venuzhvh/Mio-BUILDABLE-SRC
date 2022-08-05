@@ -1,0 +1,21 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "None",
+  "Armor": true,
+  "Enchants": true,
+  "Reversed": false,
+  "Durability": true,
+  "Health": true,
+  "Gamemode": false,
+  "Ping": true,
+  "ItemName": true,
+  "Invisibles": true,
+  "Pops": true,
+  "Outline": true,
+  "Rainbow": false,
+  "Red": 255,
+  "Green": 150,
+  "Blue": 255
+}

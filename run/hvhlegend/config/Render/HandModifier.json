@@ -1,0 +1,22 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "None",
+  "Settings": "GLOBAL",
+  "HandChams": false,
+  "Mode": "WIREFRAME",
+  "Swing": false,
+  "SwingHand": "Mainhand",
+  "Red": 255,
+  "Green": 255,
+  "Blue": 255,
+  "Alpha": 150,
+  "NoSwapDelay": false,
+  "SwordHandSwap": false,
+  "SlowSwing": false,
+  "MainX": 0,
+  "MainY": 0,
+  "OffX": 0,
+  "OffY": 0
+}

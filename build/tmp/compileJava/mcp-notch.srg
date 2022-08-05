@@ -1,0 +1,30 @@
+FD: il/dev/mio/api/mixin/mixins/MixinGuiChat/inputField il/dev/mio/api/mixin/mixins/MixinGuiChat/a
+FD: il/dev/mio/api/mixin/mixins/MixinGuiChat/historyBuffer il/dev/mio/api/mixin/mixins/MixinGuiChat/g
+FD: il/dev/mio/api/mixin/mixins/MixinGuiChat/sentHistoryCursor il/dev/mio/api/mixin/mixins/MixinGuiChat/h
+FD: il/dev/mio/api/mixin/mixins/MixinGuiNewChat/isScrolled il/dev/mio/api/mixin/mixins/MixinGuiNewChat/k
+FD: il/dev/mio/api/mixin/mixins/MixinItemRenderer/mc il/dev/mio/api/mixin/mixins/MixinItemRenderer/c
+FD: il/dev/mio/api/mixin/mixins/MixinRenderEnderCrystal/ENDER_CRYSTAL_TEXTURES il/dev/mio/api/mixin/mixins/MixinRenderEnderCrystal/a
+FD: il/dev/mio/api/mixin/mixins/MixinRenderLivingBase/LOGGER il/dev/mio/api/mixin/mixins/MixinRenderLivingBase/a
+FD: il/dev/mio/api/mixin/mixins/MixinRenderLivingBase/mainModel il/dev/mio/api/mixin/mixins/MixinRenderLivingBase/f
+FD: il/dev/mio/api/mixin/mixins/MixinRenderLivingBase/renderMarker il/dev/mio/api/mixin/mixins/MixinRenderLivingBase/i
+MD: il/dev/mio/api/mixin/mixins/MixinFontRenderer/renderString (Ljava/lang/String;FFIZ)I il/dev/mio/api/mixin/mixins/MixinFontRenderer/b (Ljava/lang/String;FFIZ)I
+MD: il/dev/mio/api/mixin/mixins/MixinFontRenderer/renderStringAtPos (Ljava/lang/String;Z)V il/dev/mio/api/mixin/mixins/MixinFontRenderer/a (Ljava/lang/String;Z)V
+MD: il/dev/mio/api/mixin/mixins/MixinGuiChat/initGui ()V il/dev/mio/api/mixin/mixins/MixinGuiChat/b ()V
+MD: il/dev/mio/api/mixin/mixins/MixinItemRenderer/renderItemInFirstPerson (Lnet/minecraft/client/entity/AbstractClientPlayer;FFLnet/minecraft/util/EnumHand;FLnet/minecraft/item/ItemStack;F)V il/dev/mio/api/mixin/mixins/MixinItemRenderer/a (Lbua;FFLub;FLaip;F)V
+MD: il/dev/mio/api/mixin/mixins/MixinItemRenderer/renderArmFirstPerson (FFLnet/minecraft/util/EnumHandSide;)V il/dev/mio/api/mixin/mixins/MixinItemRenderer/a (FFLvo;)V
+MD: il/dev/mio/api/mixin/mixins/MixinRenderItem/renderModel (Lnet/minecraft/client/renderer/block/model/IBakedModel;ILnet/minecraft/item/ItemStack;)V il/dev/mio/api/mixin/mixins/MixinRenderItem/a (Lcfy;ILaip;)V
+MD: il/dev/mio/api/mixin/mixins/MixinRenderLivingBase/isVisible (Lnet/minecraft/entity/EntityLivingBase;)Z il/dev/mio/api/mixin/mixins/MixinRenderLivingBase/c (Lvp;)Z
+MD: il/dev/mio/api/mixin/mixins/MixinRenderLivingBase/getSwingProgress (Lnet/minecraft/entity/EntityLivingBase;F)F il/dev/mio/api/mixin/mixins/MixinRenderLivingBase/e (Lvp;F)F
+MD: il/dev/mio/api/mixin/mixins/MixinRenderLivingBase/interpolateRotation (FFF)F il/dev/mio/api/mixin/mixins/MixinRenderLivingBase/a (FFF)F
+MD: il/dev/mio/api/mixin/mixins/MixinRenderLivingBase/handleRotationFloat (Lnet/minecraft/entity/EntityLivingBase;F)F il/dev/mio/api/mixin/mixins/MixinRenderLivingBase/b (Lvp;F)F
+MD: il/dev/mio/api/mixin/mixins/MixinRenderLivingBase/applyRotations (Lnet/minecraft/entity/EntityLivingBase;FFF)V il/dev/mio/api/mixin/mixins/MixinRenderLivingBase/a (Lvp;FFF)V
+MD: il/dev/mio/api/mixin/mixins/MixinRenderLivingBase/prepareScale (Lnet/minecraft/entity/EntityLivingBase;F)F il/dev/mio/api/mixin/mixins/MixinRenderLivingBase/c (Lvp;F)F
+MD: il/dev/mio/api/mixin/mixins/MixinRenderLivingBase/unsetScoreTeamColor ()V il/dev/mio/api/mixin/mixins/MixinRenderLivingBase/f ()V
+MD: il/dev/mio/api/mixin/mixins/MixinRenderLivingBase/setScoreTeamColor (Lnet/minecraft/entity/EntityLivingBase;)Z il/dev/mio/api/mixin/mixins/MixinRenderLivingBase/d (Lvp;)Z
+MD: il/dev/mio/api/mixin/mixins/MixinRenderLivingBase/renderLivingAt (Lnet/minecraft/entity/EntityLivingBase;DDD)V il/dev/mio/api/mixin/mixins/MixinRenderLivingBase/b (Lvp;DDD)V
+MD: il/dev/mio/api/mixin/mixins/MixinRenderLivingBase/unsetBrightness ()V il/dev/mio/api/mixin/mixins/MixinRenderLivingBase/g ()V
+MD: il/dev/mio/api/mixin/mixins/MixinRenderLivingBase/renderModel (Lnet/minecraft/entity/EntityLivingBase;FFFFFF)V il/dev/mio/api/mixin/mixins/MixinRenderLivingBase/a (Lvp;FFFFFF)V
+MD: il/dev/mio/api/mixin/mixins/MixinRenderLivingBase/renderLayers (Lnet/minecraft/entity/EntityLivingBase;FFFFFFF)V il/dev/mio/api/mixin/mixins/MixinRenderLivingBase/a (Lvp;FFFFFFF)V
+MD: il/dev/mio/api/mixin/mixins/MixinRenderLivingBase/setDoRenderBrightness (Lnet/minecraft/entity/EntityLivingBase;F)Z il/dev/mio/api/mixin/mixins/MixinRenderLivingBase/d (Lvp;F)Z
+MD: il/dev/mio/api/mixin/mixins/MixinRenderLivingBase/doRender (Lnet/minecraft/entity/EntityLivingBase;DDDFF)V il/dev/mio/api/mixin/mixins/MixinRenderLivingBase/a (Lvp;DDDFF)V
+MD: il/dev/mio/api/mixin/mixins/MixinRenderPlayer/getEntityTexture (Lnet/minecraft/client/entity/AbstractClientPlayer;)Lnet/minecraft/util/ResourceLocation; il/dev/mio/api/mixin/mixins/MixinRenderPlayer/a (Lbua;)Lnf;

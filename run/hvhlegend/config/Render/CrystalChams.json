@@ -1,0 +1,23 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "None",
+  "Settings": "GLOBAL",
+  "Fill": false,
+  "XQZ": true,
+  "Wireframe": false,
+  "Scale": 1,
+  "ChangeSpeed": false,
+  "SpinSpeed": 1,
+  "FloatFactor": 1,
+  "Red": 255,
+  "Green": 255,
+  "Blue": 255,
+  "Alpha": 255,
+  "LineWidth": 1,
+  "Rainbow": false,
+  "Saturation": 50,
+  "Brightness": 100,
+  "RainbowSpeed": 40
+}

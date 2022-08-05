@@ -1,0 +1,15 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "None",
+  "Gear": true,
+  "Red": 255,
+  "Green": 150,
+  "Blue": 255,
+  "Rainbow": false,
+  "ModulesRainbow": "Static",
+  "Delay": 240,
+  "Brightness ": 150,
+  "Saturation": 150
+}

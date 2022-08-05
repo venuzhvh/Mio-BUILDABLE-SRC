@@ -1,0 +1,32 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "il.dev.mio.api.mixin",
+  "refmap": "mixins.mio.refmap.json",
+  "mixins": [
+    "mixins.MixinBlockLiquid",
+    "mixins.MixinEntityLivingBase",
+    "mixins.MixinEntityPlayer",
+    "mixins.MixinEntityPlayerSP",
+    "mixins.MixinEntityRenderer",
+    "mixins.MixinFontRenderer",
+    "mixins.MixinGuiChat",
+    "mixins.MixinGuiNewChat",
+    "mixins.MixinGuiPlayerTabOverlay",
+    "mixins.MixinGuiScreen",
+    "mixins.MixinItemRenderer",
+    "mixins.MixinMinecraft",
+    "mixins.MixinModelPlayer",
+    "mixins.MixinNetworkManager",
+    "mixins.MixinPlayerControllerMP",
+    "mixins.MixinRenderEnderCrystal",
+    "mixins.MixinRenderItem",
+    "mixins.MixinRenderLivingBase",
+    "mixins.MixinRenderPlayer",
+    "mixins.MixinWorld",
+    "accessors.IC00Handshake",
+    "accessors.IServerAddress"
+
+
+  ]
+}

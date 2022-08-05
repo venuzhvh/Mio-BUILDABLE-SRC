@@ -1,0 +1,23 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "None",
+  "Settings": "GLOBAL",
+  "Render": true,
+  "Mode": "Wireframe",
+  "PlayerModel": true,
+  "Funny": false,
+  "Sneak": false,
+  "LagChams": true,
+  "Red": 255,
+  "Green": 255,
+  "Blue": 255,
+  "WireframeRed": 255,
+  "WireframeGreen": 255,
+  "WireframeBlue": 255,
+  "Alpha": 80,
+  "LineWidth": 1,
+  "Rainbow": false,
+  "Brightness": 100
+}

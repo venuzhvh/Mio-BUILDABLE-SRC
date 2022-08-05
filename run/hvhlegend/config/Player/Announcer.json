@@ -1,0 +1,10 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "None",
+  "Move": false,
+  "Break": false,
+  "Eat": false,
+  "Delay": 5
+}

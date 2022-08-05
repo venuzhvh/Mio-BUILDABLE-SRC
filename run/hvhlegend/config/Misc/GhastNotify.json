@@ -1,0 +1,15 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "None",
+  "Chat": true,
+  "CensorCoords": false,
+  "Sound": true,
+  "ESP": false,
+  "Red": 255,
+  "Green": 255,
+  "Blue": 255,
+  "OlAlpha": 255,
+  "BoxAlpha": 255
+}

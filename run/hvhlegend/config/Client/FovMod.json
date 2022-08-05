@@ -1,0 +1,14 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "None",
+  "Settings": "FOV",
+  "CustomFov": false,
+  "FOV": 130,
+  "AspectRatio": false,
+  "AspectFactor": 1,
+  "Defaults": false,
+  "SprintAdd": 1,
+  "SwiftnessAdd": 1
+}

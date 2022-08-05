@@ -1,0 +1,13 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "None",
+  "LineWidth": 1,
+  "Alpha": 255,
+  "Red": 255,
+  "Green": 255,
+  "Blue": 255,
+  "Rainbow": false,
+  "RainbowHue": 255
+}
